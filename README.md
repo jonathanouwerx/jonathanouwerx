@@ -24,6 +24,8 @@ I'm a Mathematics and Computer Science student at Duke University interested in 
 
 ### 📊 Stats
 
+Don't worry, I am working on this!
+
 ![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanouwerx&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=vue-dark&border_radius=4.5) -->
