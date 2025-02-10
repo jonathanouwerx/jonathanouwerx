@@ -22,7 +22,7 @@ I'm a Mathematics and Computer Science student at Duke University interested in 
 
 ## Projects
 
-### WhatsApp Reaction Checker 
+### WhatsApp Reaction Checker (2025)
 A Chrome extension that identifies which users have reacted to a WhatsApp message and highlights those who haven't from a predefined list.
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue?style=for-the-badge)](https://github.com/jonathanouwerx/whatsapp_extension)
@@ -52,7 +52,7 @@ A Chrome extension that identifies which users have reacted to a WhatsApp messag
 
 ---
 
-###  Jump CLI Tool
+###  Jump CLI Tool (2024)
 A command line application to jump to predetermined points in the terminal, making navigation faster and more efficient.
 
 Demo: https://jump-demo-nine.vercel.app/
@@ -76,7 +76,7 @@ Demo: https://jump-demo-nine.vercel.app/
 
 ---
 
-### Online Jump CLI Demo
+### Online Jump CLI Demo (2025)
 
 A demo showcasing how the Jump CLI tool can manage and navigate project directories efficiently in a browser environment.
 
@@ -102,7 +102,7 @@ Demo: https://jump-demo-nine.vercel.app/
    
 ---
 
-### EVNT Event Planning Platform (Work In Progress)
+### EVNT Event Planning Platform (Work In Progress) (2024-)
 A comprehensive platform for planning and managing small and large scale events.
 
 <!-- [![View Repo](https://img.shields.io/badge/View_Repo-blue?style=for-the-badge)](https://github.com/jonathanouwerx/WhatsAppReactionChecker) -->
@@ -130,3 +130,14 @@ A comprehensive platform for planning and managing small and large scale events.
 
 </details>
 
+## Research
+
+### Theoretical and Practical Effectiveness of Greedy Algorithms for the Travelling Salesman Problem (2021)
+This paper analyzes Brute Force, Nearest Neighbour, and Greedy algorithms for solving the Travelling Salesman Problem (TSP). A Python framework was developed to compare their efficiency using randomized node sets and TSPLIB datasets. Results show that Greedy algorithms produce shorter tours than Nearest Neighbour but are significantly slower. The study highlights the trade-off between computational speed and solution accuracy in real-world applications.
+
+[![Read Paper](https://img.shields.io/badge/Read_Paper-blue?style=for-the-badge)](https://github.com/jonathanouwerx/travelling_salesman/blob/master/Travelling%20Salesman%20Problem%20-%20Jonathan%20Ouwerx.pdf)
+
+### Automated Parliaments: Enhancing AI Decision-Making (2023)
+This paper introduces Automated Parliaments (APs), a framework for reducing decision uncertainty and misalignment in language models (LMs). APs consist of AI delegates, each representing a moral or decision-making framework, which collaboratively modify and evaluate responses. The study demonstrates how Automated Moral Parliaments (AMPs) can improve AI alignment with human values by integrating deontology, utilitarianism, and virtue ethics. Experiments using few-shot prompting show a 57.3% improvement in moral decision consistency. This research highlights APs' potential applications, including AI ethics, legal compliance, and policy-making.
+
+[![Read Paper](https://img.shields.io/badge/Read_Paper-blue?style=for-the-badge)](https://arxiv.org/abs/2311.10098 )
